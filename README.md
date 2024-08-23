@@ -7,6 +7,9 @@ This repo is intended as a template for Microsoft AI Tour repositories
 
 AI workloads are amazing and then you get the invoice. Learn how to avoid bill shock & improve cost visibility with FinOps principles, product controls and cost management tools.
 
+![image](https://github.com/user-attachments/assets/e5dbeeb1-e7f0-409c-bd75-df3e0ac647c1)
+
+
 ## Technology Used
 - Microsoft Copilot 
 - Microsoft Cost Management & Billing
