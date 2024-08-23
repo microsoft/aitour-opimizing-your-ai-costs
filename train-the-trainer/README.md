@@ -20,7 +20,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
+| PowerPoint        | - [Presentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faitourassetstore.blob.core.windows.net%2Fassets%2FBRK473%2520Optimizing%2520Your%2520AI%2520Costs%2FBRK473%2520Optimizing%2520Your%2520AI%2520Costs_V1.0.pptx&data=05%7C02%7CChristian.Talavera%40microsoft.com%7Cadfb51cfd0374037bd8e08dcc3aff33a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638600407725302829%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=nQRFVFc4gxRxv4TK9T1RePjrdnQKXrPKmKRV0sMFiyQ%3D&reserved=0) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
 | Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
 | Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
