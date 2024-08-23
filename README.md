@@ -1,8 +1,5 @@
 # Optimizing Your AI Costs
 
-
-This repo is intended as a template for Microsoft AI Tour repositories
-
 ## Session Desciption
 
 AI workloads are amazing and then you get the invoice. Learn how to avoid bill shock & improve cost visibility with FinOps principles, product controls and cost management tools.
