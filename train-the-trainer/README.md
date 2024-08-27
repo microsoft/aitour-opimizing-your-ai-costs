@@ -15,4 +15,4 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | [Presentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faitourassetstore.blob.core.windows.net%2Fassets%2FBRK473%2520Optimizing%2520Your%2520AI%2520Costs%2FBRK473%2520Optimizing%2520Your%2520AI%2520Costs_V1.0.pptx&data=05%7C02%7CChristian.Talavera%40microsoft.com%7Cadfb51cfd0374037bd8e08dcc3aff33a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638600407725302829%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=nQRFVFc4gxRxv4TK9T1RePjrdnQKXrPKmKRV0sMFiyQ%3D&reserved=0) | Slides |
+| PowerPoint        | [Presentation](https://aka.ms/AAryr62) | Slides |
