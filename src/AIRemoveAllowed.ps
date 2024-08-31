@@ -1,0 +1,10 @@
+Disable-AzContextAutosave -Scope Process
+$AzureContext = (Connect-AzAccount -Identity).context
+Set-AzContext -SubscriptionId ""
+$parameters = @{
+    "ResourceGroupName" = ""
+    "Name" = ""
+    "DefaultProfile" = $AzureContext
+    "IPAddressOrRange" = ""
+    }
+Remove-AzCognitiveServicesAccountNetworkRule @parameters
