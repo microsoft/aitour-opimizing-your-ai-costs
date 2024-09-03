@@ -7,6 +7,16 @@ AI workloads are amazing and then you get the invoice. Learn how to avoid bill s
 ![image](https://github.com/user-attachments/assets/e5dbeeb1-e7f0-409c-bd75-df3e0ac647c1)
 
 
+## What you will learn
+This talk will explain the pricing structure of Azure AI services and how to estimate the cost of an AI workload.
+
+Then will introduce you to industry-leading cost optimization principles from the FinOps Foundation, which are worth exploring deeper if you have any resources in a Cloud. You'll learn about the FinOps Framework and how it aligns with adopting AI.
+
+Finally, you'll be shown demos of tools in action: from the Azure Pricing Calculator to the open-source FinOps Toolkit.
+
+By the end of this session you'll understand how AI workloads can impact your costs, how you can control them, how you can collaborate across your organization as a FinOps Practice, and what tools are available for cost esimation, monitoring and analysis. 
+
+
 ## Technology Used
 - Microsoft Copilot 
 - Microsoft Cost Management & Billing
